@@ -20,7 +20,7 @@ Me chamo Guilherme Gonçalves Dantas, tenho 17 anos, e sou natural de São Paulo
   <img align="center" alt="ggdDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 <br>
-# 
+__________________________________________________________________________________________________________________________________________________________________________________________
 <div style="display: flex">
 <p align="left">
 <a href="https://github.com/ggddev?tab=repositories&sort=stargazers">
