@@ -10,6 +10,7 @@ Me chamo Guilherme Gonçalves Dantas, tenho 17 anos, e sou natural de São Paulo
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggddev&layout=compact&langs_count=16&theme="/>
 </div>
 
+## 🤖 Linguagens e Tecnologias
 <div style="display: flex"><br>
   <img align="center" alt="ggdDev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="ggdDev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
