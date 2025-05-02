@@ -3,24 +3,6 @@
 **`Desenvolvedor Front-end`**
 
 Me chamo Guilherme Gonçalves Dantas, tenho 17 anos, e sou natural de São Paulo. Tenho formação técnica em Desenvolvimento de Sistemas, no Senac. Sou apaixonado por tecnologia e compartilho projetos pessoais e alguns pensamentos sobre tecnologia no meu Linkedin "[Guilherme G. Dantas](https://www.linkedin.com/in/guilhermegdantas/)".
-
-<div>
-    <a href="https://github.com/ggddev">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggddev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggddev&layout=compact&langs_count=16&theme="/>
-</div>
-
-## 🤖 Linguagens e Tecnologias
-<div style="display: flex"><br>
-  <img align="center" alt="ggdDev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="ggdDev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  
-  <img align="center" alt="ggddev-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-          
-  <img align="center" alt="ggdDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="ggdDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
-<br>
 <div style="display: flex">
 <p align="left">
 <a href="https://github.com/ggddev?tab=repositories&sort=stargazers">
@@ -51,3 +33,23 @@ Me chamo Guilherme Gonçalves Dantas, tenho 17 anos, e sou natural de São Paulo
 </a> 
 </p>
 </div>
+
+
+<div>
+    <a href="https://github.com/ggddev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ggddev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ggddev&layout=compact&langs_count=16&theme="/>
+</div>
+
+## 🤖 Linguagens e Tecnologias
+<div style="display: flex"><br>
+  <img align="center" alt="ggdDev-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="ggdDev-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  
+  <img align="center" alt="ggddev-sql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+          
+  <img align="center" alt="ggdDev-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="ggdDev-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+<br>
+
