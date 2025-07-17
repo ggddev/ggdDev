@@ -1,4 +1,4 @@
-# 💻 Guilherme G. Dantas
+<span style="text-align: center"># 💻 Guilherme G. Dantas</span>
  
 **`Desenvolvedor Front-end`**
 
