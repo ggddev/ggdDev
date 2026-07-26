@@ -2,7 +2,7 @@
  
 **`Desenvolvedor Front-end`**
 
-Me chamo Guilherme Gonçalves Dantas, tenho 17 anos, e sou natural de São Paulo. Tenho formação técnica em Desenvolvimento de Sistemas, no Senac. Sou apaixonado por tecnologia e compartilho projetos pessoais e alguns pensamentos sobre tecnologia no meu Linkedin "[Guilherme G. Dantas](https://www.linkedin.com/in/guilhermegdantas/)".
+Me chamo Guilherme Gonçalves Dantas, tenho 18 anos, e sou natural de São Paulo. Tenho formação técnica em Desenvolvimento de Sistemas, no Senac, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera e também estou cursando outro técnico em Desenvolvimento de Sistemas pelo SENAI São Caetano do Sul. Sou apaixonado por tecnologia e compartilho projetos pessoais e alguns pensamentos sobre tecnologia no meu Linkedin "[Guilherme G. Dantas](https://www.linkedin.com/in/guilhermegdantas/)".
 <div style="display: flex">
 <p align="left">
 <a href="https://github.com/ggddev?tab=repositories&sort=stargazers">
