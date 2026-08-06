@@ -1,5 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pirata+One&size=30&pause=1000&color=F70000&width=435&lines=Guilherme+Gon%C3%A7alves+Dantas" alt="Typing SVG" /></a>
 
-https://readme-typing-svg.demolab.com/demo/?font=Pirata+One&size=30&color=F70000&lines=Guilherme+Gon%C3%A7alves+Dantas
 **`Desenvolvedor Front-end`**
 
 Me chamo Guilherme Gonçalves Dantas, tenho 18 anos, e sou natural de São Paulo. Tenho formação técnica em Desenvolvimento de Sistemas, no Senac, estou cursando Análise e Desenvolvimento de Sistemas na Anhanguera e também estou cursando outro técnico em Desenvolvimento de Sistemas pelo SENAI São Caetano do Sul. Sou apaixonado por tecnologia e compartilho projetos pessoais e alguns pensamentos sobre tecnologia no meu Linkedin "[Guilherme G. Dantas](https://www.linkedin.com/in/guilhermegdantas/)".
